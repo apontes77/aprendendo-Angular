@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 1.5
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12
+    },
+    {
+      "id": 3,
+      "name": "Caneta BIC Azul",
+      "price": 1.5
+    },
+    {
+      "id": 4,
+      "name": "Bola de Futebol Society",
+      "price": 99.9
+    },
+    {
+      "id": 5,
+      "name": "Teclado Mecânico",
+      "price": 250
+    },
+    {
+      "name": "Preservativo masculino",
+      "price": 10.56,
+      "id": 6
+    },
+    {
+      "name": "Preservativo masculino",
+      "price": "10.56",
+      "id": 7
+    },
+    {
+      "name": "Preservativo Feminino Sabor Manga",
+      "price": "12.00",
+      "id": 8
+    }
+  ]
+}
