@@ -1,18 +1,8 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Caneta BIC Preta",
-      "price": 1.5
-    },
-    {
-      "id": 2,
-      "name": "Notebook Mac Pro",
-      "price": 12
-    },
-    {
       "id": 3,
-      "name": "Caneta BIC Azul",
+      "name": "Caneta esferográfica azul",
       "price": 1.5
     },
     {
@@ -26,19 +16,24 @@
       "price": 250
     },
     {
-      "name": "Preservativo masculino",
-      "price": 10.56,
+      "name": "Livro \"Clean Code\" - Robert C. Martin",
+      "price": "100.65",
       "id": 6
     },
     {
-      "name": "Preservativo masculino",
-      "price": "10.56",
+      "name": "Carregador de smartphone",
+      "price": "59.90",
       "id": 7
     },
     {
-      "name": "Preservativo Feminino Sabor Manga",
-      "price": "12.00",
-      "id": 8
+      "name": "Garrafa Térmica",
+      "price": "39.99",
+      "id": 9
+    },
+    {
+      "name": "monitor LG 28''",
+      "price": "1000.01",
+      "id": 10
     }
   ]
 }
